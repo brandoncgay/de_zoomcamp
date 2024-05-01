@@ -171,3 +171,4 @@ node_modules
 /mage_data*
 *secrets*.json
 scratch*
+/orchestrator/*.json
